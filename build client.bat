@@ -1,0 +1,1 @@
+javac ClientApp.java -Xlint
